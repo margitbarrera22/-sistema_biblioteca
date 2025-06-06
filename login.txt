@@ -11,22 +11,14 @@ COMPONENTES:
    - Campo: Email/Usuario
    - Campo: Contraseña
    - Botón: Iniciar Sesión
-   - Enlace: ¿Olvidaste tu contraseña?
 
 2. Validaciones
    - Verificar formato de email
    - Validar contraseña mínima 8 caracteres
-   - Mostrar mensajes de error claros
 
-3. Autenticación
-   - Verificar credenciales en base de datos
-   - Crear sesión de usuario
-   - Redireccionar al dashboard
+3. Tipos de Usuario
+   - Estudiante: Búsqueda y préstamos
+   - Profesor: Búsqueda y reservas extendidas
+   - Bibliotecario: Acceso completo
 
-TIPOS DE USUARIO:
-- Estudiante: Acceso a búsqueda y préstamos
-- Profesor: Acceso a búsqueda y reservas extendidas
-- Bibliotecario: Acceso completo al sistema
-
-ESTADO:
-🔨 En desarrollo
+ESTADO: 🔨 En desarrollo
