@@ -1,0 +1,27 @@
+NOTAS DE DISEÑO - SISTEMA BIBLIOTECA
+
+Fecha: 5 de junio de 2025
+
+ARQUITECTURA INICIAL:
+- Patrón: MVC (Modelo-Vista-Controlador)
+- Capas: Presentación, Lógica de Negocio, Acceso a Datos
+
+ENTIDADES PRINCIPALES:
+1. Libro
+   - ISBN, Título, Autor, Editorial, Año
+2. Usuario
+   - ID, Nombre, Email, Tipo (estudiante/profesor)
+3. Préstamo
+   - ID, Usuario, Libro, Fecha préstamo, Fecha devolución
+
+CASOS DE USO:
+- Registrar nuevo libro
+- Buscar libro por título/autor
+- Realizar préstamo
+- Devolver libro
+- Generar reporte de préstamos
+
+PRÓXIMOS PASOS:
+- Definir tecnología específica
+- Crear diagramas UML
+- Implementar prototipo básico
