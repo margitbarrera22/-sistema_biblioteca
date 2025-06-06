@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Sistema de Biblioteca 
+# Sistema de Biblioteca
 
 ## Descripción
 Sistema de gestión para biblioteca académica desarrollado como proyecto estudiantil.
@@ -19,11 +18,6 @@ Sistema de gestión para biblioteca académica desarrollado como proyecto estudi
 🚧 En desarrollo inicial
 
 ## Autor(es)
-- [Margit Barrera]
-- [Daniela Bayona]
-
-
-=======
-# -sistema_biblioteca
-Sistema de gestión para biblioteca 
+- Margit Barrera
+- Daniela Bayona
 
