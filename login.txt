@@ -1,0 +1,32 @@
+MÓDULO DE LOGIN - SISTEMA BIBLIOTECA
+
+Fecha: 5 de junio de 2025
+Rama: feature-login
+
+DESCRIPCIÓN:
+Funcionalidad para autenticación de usuarios en el sistema de biblioteca.
+
+COMPONENTES:
+1. Formulario de Login
+   - Campo: Email/Usuario
+   - Campo: Contraseña
+   - Botón: Iniciar Sesión
+   - Enlace: ¿Olvidaste tu contraseña?
+
+2. Validaciones
+   - Verificar formato de email
+   - Validar contraseña mínima 8 caracteres
+   - Mostrar mensajes de error claros
+
+3. Autenticación
+   - Verificar credenciales en base de datos
+   - Crear sesión de usuario
+   - Redireccionar al dashboard
+
+TIPOS DE USUARIO:
+- Estudiante: Acceso a búsqueda y préstamos
+- Profesor: Acceso a búsqueda y reservas extendidas
+- Bibliotecario: Acceso completo al sistema
+
+ESTADO:
+🔨 En desarrollo
